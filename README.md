@@ -1,6 +1,6 @@
 # Yufeng Guo Speaker Info
 
-   * [Bio](#bio)
+   * [Bio](#about)
    * [Headshot](#headshot)
    * [Current talks](#current-talks)
       * [Machine Learning on Google Cloud](#machine-learning-on-google-cloud)
@@ -12,7 +12,7 @@
       * [Neural network architecture and design](#neural-network-architecture-and-design)
       * [Setting up your data pipeline for machine learning on GCP](#setting-up-your-data-pipeline-for-machine-learning-on-gcp)
       
-# Bio
+# About
 Yufeng is a Developer Advocate at Google focusing on Cloud AI, where he is working to make machine learning more understandable and usable for all. He is the creator of the YouTube series AI Adventures, at yt.be/AIAdventures, exploring the art, science, and tools of machine learning. He enjoys hearing about new and interesting applications of machine learning, share your use case with him on Twitter @YufengG.
 He has previously spoken at many events around the globe, including Google I/O, Cloud Next, O'Reilly AI and Strata, PyCon, PyData, ML Prague, dotAI, and OSCON.
 
@@ -55,3 +55,6 @@ Having trouble with getting those pesky models to converge? Can't quite get the 
 
 ## Setting up your data pipeline for machine learning on GCP 
 In an ever expanding world of data, there's more and more ways to mess up the data environment. From data leaking across orgs to missing or bottlenecked datasets, I'll help you work through the right customized solution for your setup.
+
+# About this page
+The table of contents was generated using [ekalinin's github-markdown-toc](https://github.com/ekalinin/github-markdown-toc). 
