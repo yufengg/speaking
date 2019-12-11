@@ -23,6 +23,8 @@ He has previously spoken at many events around the globe, including Google I/O, 
 # Headshot 
 [Headshot link in Drive](https://drive.google.com/file/d/0B1fVUvC3j2UXOVhkTEVCNjdPYzA/view)
 
+![Yufeng Guo Headshot](https://drive.google.com/file/d/0B1fVUvC3j2UXOVhkTEVCNjdPYzA/view)
+
 
 # Current talks
 Here are some examples of talks I've given recently. New products, ideas,  and use cases are always bubbling up to form new talks, so check with me to see if there's anything new and exciting coming up!
