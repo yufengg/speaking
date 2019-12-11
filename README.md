@@ -1,3 +1,16 @@
+
+   * [Yufeng Guo Speaker Bio](#yufeng-guo-speaker-bio)
+   * [Headshot](#headshot)
+   * [Current talks](#current-talks)
+      * [Machine Learning on Google Cloud](#machine-learning-on-google-cloud)
+      * [Using Kubeflow Pipelines for building machine learning pipelines](#using-kubeflow-pipelines-for-building-machine-learning-pipelines)
+      * [Visualizing Neural Networks with Activation Atlases](#visualizing-neural-networks-with-activation-atlases)
+      * [Getting started modeling language: a first steps in NLP with bag of words](#getting-started-modeling-language-a-first-steps-in-nlp-with-bag-of-words)
+   * [Consulting topics](#consulting-topics)
+      * [Machine learning and data science infrastructure and architecture](#machine-learning-and-data-science-infrastructure-and-architecture)
+      * [Neural network architecture and design](#neural-network-architecture-and-design)
+      * [Setting up your data pipeline for machine learning on GCP](#setting-up-your-data-pipeline-for-machine-learning-on-gcp)
+      
 # Yufeng Guo Speaker Bio
 Yufeng is a Developer Advocate at Google focusing on Cloud AI, where he is working to make machine learning more understandable and usable for all. He is the creator of the YouTube series AI Adventures, at yt.be/AIAdventures, exploring the art, science, and tools of machine learning. He enjoys hearing about new and interesting applications of machine learning, share your use case with him on Twitter @YufengG.
 He has previously spoken at many events around the globe, including Google I/O, Cloud Next, O'Reilly AI and Strata, PyCon, PyData, ML Prague, dotAI, and OSCON.
