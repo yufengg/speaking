@@ -21,9 +21,9 @@ He has previously spoken at many events around the globe, including Google I/O, 
 **LinkedIn**: [Yufeng Guo](https://www.linkedin.com/in/yufeng)
 
 # Headshot 
-[Headshot link in Drive](https://drive.google.com/file/d/0B1fVUvC3j2UXOVhkTEVCNjdPYzA/view)
+[Full-res headshot link in Drive](https://drive.google.com/file/d/0B1fVUvC3j2UXOVhkTEVCNjdPYzA/view)
 
-![Yufeng Guo Headshot](https://drive.google.com/file/d/0B1fVUvC3j2UXOVhkTEVCNjdPYzA/view)
+[<img src="./headshot_cropped_2008x2008.jpg" width="200">](https://drive.google.com/file/d/0B1fVUvC3j2UXOVhkTEVCNjdPYzA/view)
 
 
 # Current talks
