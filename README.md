@@ -13,21 +13,26 @@
       * [Setting up your data pipeline for machine learning on GCP](#setting-up-your-data-pipeline-for-machine-learning-on-gcp)
       
 # About
-Yufeng is a Developer Advocate at Google focusing on Cloud AI, where he is working to make machine learning more understandable and usable for all. He is the creator of the YouTube series AI Adventures, at yt.be/AIAdventures, exploring the art, science, and tools of machine learning. He enjoys hearing about new and interesting applications of machine learning, share your use case with him on Twitter @YufengG.
-He has previously spoken at many events around the globe, including Google I/O, Cloud Next, O'Reilly AI and Strata, PyCon, PyData, ML Prague, dotAI, and OSCON.
+Yufeng is a Developer Advocate focusing on machine learning libraries and frameworks. Yufeng has been at Google for eleven years, and in previous roles at Google, Yufeng built systems to create and curate bespoke datasets for LLMs, created the YouTube series "AI Adventures" at yt.be/AIAdventures, and has spoken at conferences around the globe, including Google I/O, Cloud Next, O'Reilly AI and Strata, PyCon, PyData, ML Prague, dotAI, and OSCON. 
+He holds a Bachelor's degree in Biomedical Engineering from Johns Hopkins University. He is an avid marathoner and also plays the violin in the NYC Googler Orchestra.
 
 **Twitter**: [@YufengG](https://twitter.com/YufengG)
 
 **LinkedIn**: [Yufeng Guo](https://www.linkedin.com/in/yufeng)
 
 # Headshot 
-[Full-res headshot link in Drive](https://drive.google.com/file/d/0B1fVUvC3j2UXOVhkTEVCNjdPYzA/view)
+[Full-res headshot download link](https://drive.google.com/file/d/0B1fVUvC3j2UXOVhkTEVCNjdPYzA/view)
 
 [<img src="./headshot_cropped_2008x2008.jpg" width="200">](https://drive.google.com/file/d/0B1fVUvC3j2UXOVhkTEVCNjdPYzA/view)
 
 
 # Current talks
-Here are some examples of talks I've given recently. New products, ideas,  and use cases are always bubbling up to form new talks, so check with me to see if there's anything new and exciting coming up!
+Here are some examples of talks I've given recently. New products, ideas, and use cases are always bubbling up to form new talks, so check with me to see if there's anything new and exciting coming up!
+
+## Accelerating AI with JAX
+This session will serve as an introduction to JAX and the JAX ecosystem of tools. It specifically focuses on the core composable function transformations that make the library especially powerful: `jit`, `grad`, and `vmap`. After some initial slides to motivate the overall topic, we will move to live coding, with occasional returns to slides to cover concepts as needed.
+
+This session is particularly good for folks who have a familiarity with how machine learning works in general, and want to learn more about what is happening at the state-of-the-art today in terms of tools and library design, as well as what is motivating these tooling changes.
 
 ## Machine Learning on Google Cloud
 This interactive session will focus on the tools for doing machine learning on Google Cloud Platform (GCP). From exploration, to training, to model serving, we will talk about the available tools and how to piece them together depending on your needs. We will explore some common patterns, as well as leave some time to any address questions, so bring your use cases to discuss.
