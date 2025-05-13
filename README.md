@@ -3,6 +3,7 @@
    * [Bio](#about)
    * [Headshot](#headshot)
    * [Current talks](#current-talks)
+      * [Accelerating AI with JAX](#accelerating-ai-with-jax)
       * [Machine Learning on Google Cloud](#machine-learning-on-google-cloud)
       * [Using Kubeflow Pipelines for building machine learning pipelines](#using-kubeflow-pipelines-for-building-machine-learning-pipelines)
       * [Visualizing Neural Networks with Activation Atlases](#visualizing-neural-networks-with-activation-atlases)
